@@ -1,0 +1,7 @@
+#Input Text#
+initial x(x0) = 2.0
+initial y(y0) = 3.0
+Coefficient a = 2.0
+Coefficient b = 3.0
+learning rate = 0.1
+max iteration = 1000

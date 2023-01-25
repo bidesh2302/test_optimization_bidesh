@@ -10,3 +10,4 @@ The goal function implemented in this code is 'a*x*x + b*y*y + a*x + b*y' in src
 The minima of any given function is found by gradient descent algorithm given by 'gradient_descent' function described in src/munsterCode.c.  
 'munsterCode.py' calls 'munsterCode.c' which is linked with test/input.txt file where inputs are provided. Running the code can be done with './runFile.sh'. 
 
+Contact: bideshsengupta.08@gmail.com

@@ -1,4 +1,6 @@
 Optimization
 
 # optimization_uni-muenster_bidesh
-This is
+Running the code:
+src-> contains the main source code.
+
